@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.udemy_spring_boot_starter.UdemySpringBootStarterApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.535 s - in com.example.udemy_spring_boot_starter.UdemySpringBootStarterApplicationTests
