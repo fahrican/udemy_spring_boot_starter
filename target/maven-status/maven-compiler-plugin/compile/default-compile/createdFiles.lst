@@ -1,4 +1,5 @@
 com/example/udemy_spring_boot_starter/response/SubjectResponse.class
+com/example/udemy_spring_boot_starter/controller/TestController.class
 com/example/udemy_spring_boot_starter/UdemySpringBootStarterApplication.class
 com/example/udemy_spring_boot_starter/request/InQueryRequest.class
 com/example/udemy_spring_boot_starter/entity/Student.class
