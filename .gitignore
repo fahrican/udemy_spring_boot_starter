@@ -134,3 +134,10 @@ fabric.properties
 hs_err_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij
+/app.log.2021-11-28.0.gz
+/student-spring-rest-api/
+
+# Files to ignore
+com.example.udemy_spring_boot_starter.UdemySpringBootStarterApplicationTests.txt
+TEST-com.example.udemy_spring_boot_starter.UdemySpringBootStarterApplicationTests.xml
+udemy_spring_boot_starter-0.0.1-SNAPSHOT.jar.original
