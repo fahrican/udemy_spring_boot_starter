@@ -137,6 +137,8 @@ hs_err_pid*
 /app.log.2021-11-28.0.gz
 /student-spring-rest-api/
 
+/target
+
 # Files to ignore
 com.example.udemy_spring_boot_starter.UdemySpringBootStarterApplicationTests.txt
 TEST-com.example.udemy_spring_boot_starter.UdemySpringBootStarterApplicationTests.xml
